@@ -85,6 +85,12 @@ The dashboard includes a job satisfaction matrix across job roles and satisfacti
 - Examine employee satisfaction patterns across job roles.
 - Analyze workforce demographics alongside attrition to identify potential retention risks.
 
-## Dashboard Demo
 
-Video demonstration coming soon.
+## 🎥 Dashboard Demo
+
+Watch the interactive Tableau HR Analytics Dashboard demonstration, exploring employee attrition, workforce demographics, and job satisfaction.
+
+[![Watch HR Analytics Dashboard Demo](HR%20Dashboard_Zahra%20Oumous.png)](https://youtu.be/rx3rjGVH56Q)
+
+**[▶ Watch the full dashboard demonstration on YouTube](https://youtu.be/rx3rjGVH56Q)**
+
